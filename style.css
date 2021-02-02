@@ -33,7 +33,6 @@ h1{
   
 p{
 	 font-weight: 200;
-	 font-size: 2rem;
    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
   padding: 0 3rem 1.5rem 1.5rem;
   
@@ -59,7 +58,7 @@ input[placeholder],
 textarea[placeholder]{
  			font-family: inherit;
  			font-size: inherit;
- 			padding-left: 1.2rem;
+ 			padding-left: 2.2rem;
  }
 
 select{
@@ -95,7 +94,7 @@ input:not([type="radio"]):not([type="checkbox"]), select {
 				margin-left: 0;
 				height: 6rem;
 				width: 50rem;
-				padding: 0.1rem 1.5rem;		
+				padding: 0.1rem 2.2rem;		
 				background-color: white;
 				border-radius: 0.5rem;
 				}
