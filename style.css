@@ -19,7 +19,7 @@ background-image: linear-gradient(
   background-position: center;
 color: white;
 font-family: 'Poppins', sans-serif;
-font-size: 2.5rem;
+font-size: 2.45rem;
   font-weight: 400;
   line-height: 1.4;
 }
@@ -33,7 +33,7 @@ h1{
   
 p{
 	 font-weight: 200;
-	 font-size: 1.8rem;
+	 font-size: 1.95rem;
    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
   padding: 0 3rem 1.5rem 1.5rem;
   
@@ -74,7 +74,7 @@ select{
      margin-top: 2rem;
 }
 button{
-      width: 70rem;
+      width: 50rem;
       height: 7rem;
       font-size: inherit;
       margin: 2rem auto;
