@@ -33,7 +33,7 @@ h1{
   
 p{
 	 font-weight: 200;
-	 font-size: 1.5rem;
+	 font-size: 1.8rem;
    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
   padding: 0 3rem 1.5rem 1.5rem;
   
@@ -74,7 +74,7 @@ select{
      margin-top: 2rem;
 }
 button{
-      width: 50rem;
+      width: 70rem;
       height: 7rem;
       font-size: inherit;
       margin: 2rem auto;
@@ -107,7 +107,7 @@ input[type="checkbox"] {
   min-width: 2.25rem;
 }
 textarea{
-     width: 50rem;
+     width: 70rem;
      height:20rem;
      padding:1rem;
 }
